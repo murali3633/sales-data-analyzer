@@ -38,12 +38,11 @@ A Python project that analyzes sales data to provide insights on top products, t
 ## 📈 How to Run
 1. Clone the repository:
    ```
-   git clone <>
-````
+   git clone https://github.com/murali3633/sales-data-analyzer.git
 
 2. Make sure you have Python and required libraries installed:
 
-   ```bash
+   ```
    pip install pandas matplotlib
    ```
 3. Place `sales_data.csv` in the project folder.
@@ -74,7 +73,7 @@ A Python project that analyzes sales data to provide insights on top products, t
 
 ## 📂 File Structure
 
-
+```
 sales-data-analyzer/
 │
 ├─ sales_data_analyzer.py
