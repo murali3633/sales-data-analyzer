@@ -74,7 +74,7 @@ A Python project that analyzes sales data to provide insights on top products, t
 
 ## 📂 File Structure
 
-```
+
 sales-data-analyzer/
 │
 ├─ sales_data_analyzer.py
@@ -82,5 +82,4 @@ sales-data-analyzer/
 ├─ top_products.csv        # generated after running the script
 ├─ monthly_revenue.csv     # generated after running the script
 └─ README.md
-```
 
