@@ -37,8 +37,8 @@ A Python project that analyzes sales data to provide insights on top products, t
 
 ## 📈 How to Run
 1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
+   ```
+   git clone <>
 ````
 
 2. Make sure you have Python and required libraries installed:
