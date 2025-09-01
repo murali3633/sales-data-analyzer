@@ -1,5 +1,5 @@
 
-````markdown
+
 # Sales Data Analyzer – Python Project
 
 A Python project that analyzes sales data to provide insights on top products, total revenue, and monthly sales trends using **Pandas** and **Matplotlib**.
